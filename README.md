@@ -1,5 +1,7 @@
 # Code and data for reproducing the analysis of "COVID-19 recovery funds dwarf clean energy investment needs" (Andrijevic et al., 2020)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4034673.svg)](https://doi.org/10.5281/zenodo.4034673)
+
 ## Code
 All figures generated for the Supplementary Information and the underlying data processing can be found in the R script "dataprocess_figures.R".
 
